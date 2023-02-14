@@ -1,7 +1,7 @@
 APP LISTA DE LA COMPRA
 ========
 
-Pequeña aplicación web crear listas de la compra. Hecha con fines educativos para practicar con React y TailwindCSS.
+Pequeña aplicación web para crear listas de la compra. Hecha con fines educativos para practicar con React y TailwindCSS.
 
 Vista previa del proyecto: https://app-lista-de-la-compra.netlify.app/
 
